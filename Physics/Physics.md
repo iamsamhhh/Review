@@ -1,5 +1,9 @@
 
-
+### Notes
+```dataview
+table content
+from #Note and #Physics 
+```
 ### Papers
 
 #### Finished Papers

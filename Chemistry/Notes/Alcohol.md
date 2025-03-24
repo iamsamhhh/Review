@@ -74,4 +74,5 @@ Fermentation
 - Tertiary: **Cannot** be oxidised!
 
 #### Esterification of alcohols
-- 
+- Carboxylic acid + alcohol <=> easter + water
+- Catalyst: Strong acid(Dehydrating agent)
