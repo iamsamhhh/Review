@@ -34,4 +34,3 @@ from #Chem and #Paper
 where !Done
 ```
 
-![[periodic table.空白docx.pdf]]

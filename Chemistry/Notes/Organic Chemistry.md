@@ -6,6 +6,7 @@ Content:
   - Organic
 Date: 2025-03-21
 ---
-### Oxidation
+# [[Alcohol]]
+# Oxidation
 - Adding of oxygen or removal of hydrogen
 

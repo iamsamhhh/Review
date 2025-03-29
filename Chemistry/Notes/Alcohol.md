@@ -75,4 +75,4 @@ Fermentation
 
 #### Esterification of alcohols
 - Carboxylic acid + alcohol <=> easter + water
-- Catalyst: Strong acid(Dehydrating agent)
+- Catalyst: Strong acid(Dehydrating agent)---
