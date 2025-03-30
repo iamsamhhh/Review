@@ -42,6 +42,22 @@
 	- [[12.2 Program Design]]
 	- [[12.3 Program Testing and Maintenance]]
 
+## Papers
+### Papers to be done
+```dataview
+table QP, MS, tags[1] as paper
+From #Paper and #CS 
+where !Done and length(tags) != 1
+```
+
+### Papers Done
+```dataview
+table DateDone, tags[1] as paper, MyScore*100/FullScore as Score
+From #Paper and #CS 
+where done
+sort DateDone ASC
+```
+
 ## Mistakes
 ```dataview
 TABLE mark, content, difficulty
