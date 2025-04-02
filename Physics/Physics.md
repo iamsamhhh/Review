@@ -1,3 +1,6 @@
+---
+sticker: lucide//ruler
+---
 
 ### Notes
 ```dataview

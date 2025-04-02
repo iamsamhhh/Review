@@ -1,5 +1,11 @@
-## [[9618-2024-2025-syllabus.pdf|Syllabus]]
+---
+sticker: lucide//airplay
+---
+# [[9618-2024-2025-syllabus.pdf|Syllabus]]
 
+# [[Hodder AS and A Levels Computer Science.pdf|Text book]]
+
+# Contents
 - ### [[1 Information representation]]
 	- [[1.1 Data Representation]]
 	- [[1.2 Multimedia – Graphics, Sound]]
@@ -58,9 +64,8 @@ where done
 sort DateDone ASC
 ```
 
-## Mistakes
+## questions
 ```dataview
 TABLE mark, content, difficulty
-From #CS
-where Is_mistake
+From #Question and #CS
 ```

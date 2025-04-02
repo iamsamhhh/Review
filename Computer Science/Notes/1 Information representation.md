@@ -1,9 +1,10 @@
 ---
 tags:
   - Note
+  - note
+  - cs/1informationrepresentation
 Content:
-  - Binary
-Date: 2025-03-17
+  - ""
 ---
 # [[9618-2024-2025-syllabus.pdf#page=14|Syllabus]]
 

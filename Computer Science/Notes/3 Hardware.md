@@ -1,8 +1,8 @@
 ---
 tags:
   - Note
+  - cs/3hardware
 Content: 
-Date: 2025-03-17
 ---
 ## [[9618-2024-2025-syllabus.pdf#page=17|Syllabus]]
 

@@ -4,7 +4,6 @@ tags:
   - CS/5SystemSoftware
 Content:
   - System software
-Date: 2025-03-24
 ---
 ## [[5.1 Operating Systems]]
 ![[9618-2024-2025-syllabus.pdf#page=23&rect=49,444,553,762|9618-2024-2025-syllabus, p.23]]

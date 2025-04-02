@@ -1,8 +1,7 @@
 ---
 tags:
   - Note
-Content: 
-Date: 2025-03-18
+  - cs/8database
 ---
 
 ```dataview
